@@ -1,0 +1,176 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Orders for the reception of His Royal Highness, the Prince of Orange agreed upon by the vice-chancellor &amp; delegats [sic], to be communicated to the heads of houses, &amp; by them to their respective companies.</title>
+            <author>University of Oxford.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1670</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53820</idno>
+            <idno type="STC">Wing O903G</idno>
+            <idno type="STC">ESTC R41790</idno>
+            <idno type="EEBO-CITATION">31360684</idno>
+            <idno type="OCLC">ocm 31360684</idno>
+            <idno type="VID">110770</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53820)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110770)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1751:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Orders for the reception of His Royal Highness, the Prince of Orange agreed upon by the vice-chancellor &amp; delegats [sic], to be communicated to the heads of houses, &amp; by them to their respective companies.</title>
+                  <author>University of Oxford.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Oxford :</pubPlace>
+                  <date>1670]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication suggested by Wing (2nd ed.)</note>
+                  <note>William III, King of England, then Prince of Orange, visited England in 1670, and received degrees from both universities -- cf. Concise DNB.</note>
+                  <note>Manuscript note on this sheet states that he was expected Dec. 8, 1670, "but he came not."</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>William --  III, --  King of England, 1650-1702.</term>
+               <term>University of Oxford --  History --  17th century.</term>
+               <term>Broadsides --  Oxford (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2008-07</date>
+            <label>Emma (Leeson) Huber</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2009-03</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:110770:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 2 -->
+            <head>Orders for the Reception of his <hi>Royal Highneſs</hi> the <hi>Prince</hi> of <hi>ORANGE</hi> agreed upon by the Vice-Chancellor &amp; Delegats, to be communicated to the Heads of Houſes, &amp; by them to their reſpective companies.</head>
+            <p n="1">1. THAT they admoniſh all ſuch as are under their charge, that they appear no where abroad, during his <hi>Highneſſes</hi> 
+               <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ode in the Univerſity, without their Caps and Gowns ſuitable to their Degree and Condition; and that their Apparel be ſuch as the Statutes require.</p>
+            <p n="2">2. That no Scholar of what Condition ſoever ſhall preſume to go out to meet the <hi>Prince,</hi> either on Foot, or on Horsback; or to be at, or upon the way, where the <hi>Prince</hi> is to come; but ſhall attend in that Place, and Poſture, in which he ſhall be required to be, upon notice from his Superiors.</p>
+            <p n="3">3. That no Scholar come into the <hi>Prince</hi> his Preſence, or near any of his <hi>Offices,</hi> as his Kitchen, Buttery, &amp;c. in any Place that he ſhall Viſit, or be Entertained at.</p>
+            <p n="4">4. That at the ringing of St. Maries great Bell, all Perſons, Graduats or others, forthwith repair to St. Maries (The Doctors in their S<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>arlet Gowns and all Graduats in their reſpective Formalities) and from thence ſtand in order according to the Seniority of Degrees or Condition, as they ſhall be directed by the Delegats, and thoſe who have Procuratorial power, along the High-ſtreet by Carfax toward Chriſt Church Weſt Gate (The Noble Men and Doctors ſtanding next to St. Maries South Porch:) and as ſoon as the <hi>Prince</hi> and his Train are paſt, every one immediatly depart to his reſpective College and Hall; except they ſhall receive other directions from the Vice-Chancel<g ref="char:EOLhyphen"/>lor or the Delegats.</p>
+            <p n="5">5. That upon the day when his <hi>Royal Highneſs</hi> ſhall Viſit the Schools all perſons obey ſuch or<g ref="char:EOLhyphen"/>ders as they ſhall before receive from their reſpective Heads of Houſes by Order of the De<g ref="char:EOLhyphen"/>legats.</p>
+            <p n="6">6. That during the time of the Convocation all Perſons keep their Seats.</p>
+            <p>It is ſtrictly required that during the time of this ſolemnity, all perſons obſerve the aforeſaid orders, and comport themſelves with that ſobriety and modeſty as may tend to the Reputation and Honor of the Univerſity; upon pain of being enter'd into the black-Book, and otherwiſe pro<g ref="char:EOLhyphen"/>ceeded againſt as the exigence of their faults ſhall require.</p>
+            <p>
+               <hi>The Profeſſors and Lecturers are deſired at the time when the</hi> Prince <hi>comes to viſit the Schools to be ready to read in their reſpective faculties.</hi>
+            </p>
+            <p>
+               <hi>The Doctors are deſired during the time of the ſtay of the</hi> Prince, <hi>when they come in publick to appear in their Scarlet Gowns.</hi>
+            </p>
+            <list>
+               <head>The Names of the Masters of Arts that have a Procuratorial Power committed to them, during his <hi>Royal Highneſſe's</hi> abode in the <g ref="char:V">Ʋ</g>niverſity.</head>
+               <item>Mr. <hi>Jane</hi> Aed. Chr.</item>
+               <item>Mr. <hi>Saunders</hi> Aed. Chr.</item>
+               <item>Mr. <hi>Curle</hi> Coll. Magd.</item>
+               <item>Mr. <hi>Beaumont</hi> Coll. Nov.</item>
+               <item>Mr. <hi>Scowen</hi> Coll. Om. An.</item>
+               <item>Mr. <hi>Hine</hi> Coll. Merton.</item>
+               <item>Mr. <hi>Beale</hi> C. C. C.</item>
+               <item>Mr. <hi>Dickinſon</hi> Coll. D. Joh.</item>
+               <item>Mr. <hi>Smith</hi> Coll. D. Joh.</item>
+               <item>Mr. <hi>Norman</hi> Coll. Aen. Naſ.</item>
+               <item>Mr. <hi>Savil</hi> Coll. Univerſit.</item>
+               <item>Mr. <hi>Snell</hi> Coll. Exon.</item>
+               <item>Mr. <hi>Scaife</hi> Coll. Reg.</item>
+               <item>Mr. <hi>Staynoe</hi> Coll. Trinit.</item>
+               <item>Mr. <hi>Keilway</hi> Coll. Oriel.</item>
+               <item>Mr. <hi>Lawe</hi> Coll. Lincol.</item>
+               <item>Mr. <hi>Thornton</hi> Coll. Wadh.</item>
+               <item>Mr. <hi>Hodges</hi> Coll. Baliol.</item>
+               <item>Mr. <hi>Davis</hi> Coll, Jeſu.</item>
+               <item>Mr. <hi>Frampton</hi> Coll. Pembr.</item>
+               <item>Mr. <hi>Pullen</hi> Aul. Magd.</item>
+               <item>Mr. <hi>Croſſe</hi> Aul. Cervin.</item>
+               <item>Mr. <hi>Cotterell</hi> Aul. Edm.</item>
+               <item>Mr. <hi>Hopkins</hi> Aul. B. Mar.</item>
+               <item>Mr. <hi>Collins</hi> Aul. Gloceſtr.</item>
+               <item>Mr. <hi>Huntington</hi> Aul. Alban.</item>
+               <item>Mr. <hi>Evans</hi> Aul. N. Hoſpit.</item>
+            </list>
+         </div>
+      </body>
+   </text>
+</TEI>
